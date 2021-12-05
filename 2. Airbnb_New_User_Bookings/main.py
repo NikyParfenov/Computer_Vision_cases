@@ -425,7 +425,6 @@ if __name__ == '__main__':
     sessions_train = pd.read_csv('sessions.csv')
 
     importance_scores = pd.read_csv("importance_scores.csv", index_col=0)
-    file = pd.read_csv('prediction_pipeline.csv')
 
     pipeline = AirbnbNewUserBookingsPipeline(importance_scores)
     pipeline.fit(train, sessions_train, countries_train, age_gender_bkts_train)
