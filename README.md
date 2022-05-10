@@ -4,3 +4,4 @@ Some computer vision cases for practice.
 2. KTH video classification
 3. Lipstics segmentation case (kaggle unranked case)
 4. LFW (GAN of faces drawing)
+5. eCommerce_tsum (parser of tsum cosmetic for men + look-alike recommendation for shave products from all other products relying on photo)
