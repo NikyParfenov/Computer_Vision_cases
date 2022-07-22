@@ -1,0 +1,17 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Loki"
+    },
+    {
+      "id": 1,
+      "name": "Vashti"
+    }
+  ],
+  "info": {
+    "year": 2022,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

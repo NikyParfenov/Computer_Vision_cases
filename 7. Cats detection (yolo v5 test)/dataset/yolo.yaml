@@ -1,0 +1,6 @@
+path: ./dataset
+train: ./images/train/ 
+val: ./images/valid/
+
+nc: 2 # количество классов
+names: ['Loki', 'Vashti'] # имена классов
